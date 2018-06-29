@@ -1,0 +1,10 @@
+libzmq3-dev 
+graphicsmagick 
+file 
+android-tools-adb 
+make 
+git 
+nodejs 
+npm
+unzip
+wget
